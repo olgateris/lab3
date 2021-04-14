@@ -1,0 +1,5 @@
+ro/pub/cs/systems/eim/lab03/phonedialer/BuildConfig.java
+ ro.pub.cs.systems.eim.lab03.phonedialer.BuildConfig
+ro/pub/cs/systems/eim/lab03/phonedialer/MainActivity.java
+ ro.pub.cs.systems.eim.lab03.phonedialer.MainActivity
+ ro.pub.cs.systems.eim.lab03.phonedialer.MainActivity$1
